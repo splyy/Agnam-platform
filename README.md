@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<br />
 <p align="center">
   <a href="https://github.com/splyy/Agnam-platform">
     <img src="logo.png" alt="Logo" width="80" height="80">
@@ -114,3 +121,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@Splyy](https://twitter.com/Splyy)
 
 Project Link: [https://github.com/splyy/Agnam-platform](https://github.com/splyy/Agnam-platform)
+
+*based on template from [Best README Template](https://github.com/othneildrew/Best-README-Template)*
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/splyy/Agnam-platform/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/splyy/Agnam-platform/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/splyy/Agnam-platform/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/splyy/Agnam-platform/stargazers
+[product-screenshot]: screenshot.png
