@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/splyy/Agnam-platform/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/splyy/Agnam-platform/network/members]
-[![Stargazers][stars-shield]][https://github.com/splyy/Agnam-platform/stargazers]
-[![MIT License][license-shield]][https://github.com/splyy/Agnam-platform]
-
-<br />
 <p align="center">
   <a href="https://github.com/splyy/Agnam-platform">
     <img src="logo.png" alt="Logo" width="80" height="80">
@@ -12,13 +6,13 @@
   <h3 align="center">Agnam</h3>
 
   <p align="center">
-    Agnam Platform
+    Platform to search Anime/Manga
     <br />
     <br />
     <br />
     <a href="https://github.com/splyy/Agnam-platform">View Demo</a>
     ·
-    <a href="https://github.com/splyy/Agnam-platform/issues">Agnam-platformrt Bug</a>
+    <a href="https://github.com/splyy/Agnam-platform/issues">Report Bug</a>
     ·
     <a href="https://github.com/splyy/Agnam-platform/issues">Request Feature</a>
   </p>
