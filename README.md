@@ -118,7 +118,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Splyy](https://twitter.com/Splyy)
+[@Splyy](https://twitter.com/Splyy)
 
 Project Link: [https://github.com/splyy/Agnam-platform](https://github.com/splyy/Agnam-platform)
 
